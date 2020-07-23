@@ -1,11 +1,12 @@
 /* FabyoSK Footer Tempate */
 .footer-fsk{
   margin-top: 32px;
-    padding: 32px 8px;
-    background-color: #15202B;
-    border-radius: 4px 1pt 2px;
-    color: white;
-    text-align: center;
+  padding: 32px 8px;
+  background-color: #15202B;
+  border-radius: 4px 1pt 2px;
+  color: white;
+  text-align: center;
+  width: 100%;
  
 }
 .footer-fsk h1{
